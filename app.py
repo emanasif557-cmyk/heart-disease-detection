@@ -35,7 +35,6 @@ with col2:
       MajorVessels=st.selectbox("Major Vessels (0-3)",[0,1,2,3])
       Thalassemia=st.selectbox("Thalassemia(1-3)",[1,2,3])
         
-Gender=1 if Gender == 'Male' else 0
 
 #create data frame
 input_dict= {
