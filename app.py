@@ -13,6 +13,7 @@ categorical_cols=['Gender','ChestPainType','FastingBS','RestingECG','ExerciseAng
 numerical_cols=['Age','Cholesterol','RestingBp','MaxHR','ST_Depression']
 
 st.set_page_config(page_title="Heart Disease Prediction")
+st.title("Heart Disease Prediction App")
 st.write("this app predict the likelihood of heart disease based on patient data")
 st.markdown("--")
 
