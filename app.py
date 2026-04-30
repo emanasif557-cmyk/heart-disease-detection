@@ -73,4 +73,4 @@ if st.button("predict heart disease"):
       else:
             st.success("No sign of heart disease")
 
-st.caption("Develop by Eman Asif | @2026 | Machine Learning Project")
+#st.caption("Develop by Eman Asif | @2026 | Machine Learning Project")
